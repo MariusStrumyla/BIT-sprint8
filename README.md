@@ -22,8 +22,8 @@
 -   clone this repository `https://github.com/MariusStrumyla/BIT-sprint8.git` into `htdocs` directory (xampp\htdocs);
 -   open MySQL workbench and create database named `cms`;
 - import `dump.sql` file into your SQL database:
-* open your MySQL Workbench;
-* in the toolbar choose `Server` -> `Data Import` -> in the Import Options select `Import from Self-Contained File` -> choose Default Target Schema to `cms` -> press `Start Import` -> after completion refresh `Schema's` on the left;
+ - open your MySQL Workbench;
+ - in the toolbar choose `Server` -> `Data Import` -> in the Import Options select `Import from Self-Contained File` -> choose Default Target Schema to `cms` -> press `Start Import` -> after completion refresh `Schema's` on the left;
 - you are good to go;
 
 -   open your browser and type:
