@@ -17,16 +17,16 @@
 
 # Installation / launch process:
 
--   Download and install latest `MySQL` version;
--   download and install latest `XAMPP` version. Run it and start Apache and MySQL server;
--   clone this repository `https://github.com/MariusStrumyla/BIT-sprint8.git` into `htdocs` directory (xampp\htdocs);
--   open MySQL workbench and create database named `cms`;
-- import `dump.sql` file into your SQL database:
- - open your MySQL Workbench;
- - in the toolbar choose `Server` -> `Data Import` -> in the Import Options select `Import from Self-Contained File` -> choose Default Target Schema to `cms` -> press `Start Import` -> after completion refresh `Schema's` on the left;
-- you are good to go;
+1.   Download and install latest `MySQL` version;
+2.   download and install latest `XAMPP` version. Run it and start Apache and MySQL server;
+3.   clone this repository `https://github.com/MariusStrumyla/BIT-sprint8.git` into `htdocs` directory (xampp\htdocs);
+4.   open MySQL workbench and create database named `cms`;
+5.   import `dump.sql` file into your SQL database:
+- open your MySQL Workbench;
+- in the toolbar choose `Server` -> `Data Import` -> in the Import Options select `Import from Self-Contained File` -> choose Default Target Schema to `cms` -> press `Start Import` -> after completion refresh `Schema's` on the left;
+6.    you are good to go;
 
--   open your browser and type:
+7.    open your browser and type:
 
 ```sh
     localhost/BIT-sprint8/ - to load page for viewers;
