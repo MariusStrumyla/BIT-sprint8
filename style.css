@@ -20,7 +20,6 @@ body {
 .navbar {
 	background-color: #886b6c;
 	font-size: 1.5rem;
-  font-weight: 100;
 	color: black !important;
 }
 
@@ -28,12 +27,10 @@ body {
 #footer {
   text-align:center;
   background-color: #886b6c;
-  font-weight: 100;
 }
 #footer > #text {
   margin-bottom: 20px;
   margin-top: 20px;
-  font-weight: 100;
 }
 
 /* Welcome text */
